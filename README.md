@@ -1,1 +1,2 @@
 # Lab10-CSE2102
+This Lab i started off with the in class work to have the simple understanding of how jwt tokens work then i expanded on in in app.py i created to routes one to generate the token attached to a user id and then encrypt it and post it and the second one was to have the user input the token and decrypt it and return the decrypted user id. after completing it and running through some manual tests i asked copilot to generate a test_app to test for the cases of token generation valid tokens invalid tokens and no tokens.
